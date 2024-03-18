@@ -1,0 +1,132 @@
+8
+16
+8
+8
+row-1-column-1.png false true true false 
+row-1-column-2.png false true true true Door Repair
+row-1-column-3.png false true true true 
+row-1-column-4.png false false true true Door Repair
+row-1-column-5.png false true false false Medicine Shop
+row-1-column-6.png false true false true Dungeon 9
+row-1-column-7.png false true false true  
+row-1-column-8.png false true false true Door Repair
+row-1-column-9.png false true false true 
+row-1-column-10.png false false false true 
+row-1-column-11.png false false true false White Sword
+row-1-column-12.png false false true false Dungeon 5
+row-1-column-13.png false true true false Item Shop
+row-1-column-14.png false false true true Medicine Shop
+row-1-column-15.png false false true false Show this to the old woman - map piece
+row-1-column-16.png false false true false It's a Secret 100RP
+row-2-column-1.png true true false false Let's Play Money Game
+row-2-column-2.png true false false true 
+row-2-column-3.png true true false false Item Shop
+row-2-column-4.png true true false true It's a Secret 30RP
+row-2-column-5.png false true true true Door Repair
+row-2-column-6.png false true true true 
+row-2-column-7.png false true false true Door Repair
+row-2-column-8.png true true true true 
+row-2-column-9.png false true false true 
+row-2-column-10.png false true false true 
+row-2-column-11.png true true false true Go up the mountain ahead
+row-2-column-12.png true true true true 
+row-2-column-13.png true true true true Secret is in the tree and the dead end
+row-2-column-14.png true true true true Teleport
+row-2-column-15.png true true false true Door repair
+row-2-column-16.png false false false true Let's Play Money Game
+row-3-column-1.png false true true false 
+row-3-column-2.png false false true true Magic Sword
+row-3-column-3.png false false true false Dungeon 6
+row-3-column-4.png false false true false Teleport
+row-3-column-5.png true true false true 
+row-3-column-6.png true false true true Item Shop
+row-3-column-7.png false true true false Item Shop
+row-3-column-8.png true true false true Medicine Shop
+row-3-column-9.png false true true true It's a Secret 30RP
+row-3-column-10.png false true false true 
+row-3-column-11.png false true true true 
+row-3-column-12.png false true true true 
+row-3-column-13.png true true false true Take Any One - Potion/Heart
+row-3-column-14.png true true true true It's a Secret 30RP
+row-3-column-15.png false false true true 
+row-3-column-16.png false false true false Take Any One - Potion/Heart
+row-4-column-1.png true true true false 
+row-4-column-2.png true true true true 
+row-4-column-3.png true true false true 
+row-4-column-4.png true false false true Medicine Shop
+row-4-column-5.png false false true false Item Shop
+row-4-column-6.png true true false false 
+row-4-column-7.png true false false true 
+row-4-column-8.png false true false false Dungeon 1
+row-4-column-9.png true false true true 
+row-4-column-10.png false false true false 
+row-4-column-11.png true true true false 
+row-4-column-12.png true false true true
+row-4-column-13.png false false true false Dungeon 2
+row-4-column-14.png true false true false It's a Secret 30RP
+row-4-column-15.png true true false false
+row-4-column-16.png true false true true
+row-5-column-1.png true true true false
+row-5-column-2.png true false false true
+row-5-column-3.png false false true false Dungeon 7
+row-5-column-4.png false false true false
+row-5-column-5.png true false true false Item Shop
+row-5-column-6.png false false true false Dungeon 4
+row-5-column-7.png false true true false Item Shop
+row-5-column-8.png false true false true Take Any One - Potion/Heart
+row-5-column-9.png true false true true It's a Secret 30RP
+row-5-column-10.png true true true false Teleport
+row-5-column-11.png true true false true Item Shop
+row-5-column-12.png true false true true Medicine Shop
+row-5-column-13.png true true false false
+row-5-column-14.png true true true true Item Shop
+row-5-column-15.png false false false true It's a Secret 10RP
+row-5-column-16.png true false true false
+row-6-column-1.png true false true false
+row-6-column-2.png false true true false It's a Secret 10RP
+row-6-column-3.png true true true true
+row-6-column-4.png true true true true
+row-6-column-5.png true true true true
+row-6-column-6.png true true true true
+row-6-column-7.png true true false true It's a Secret 10RP
+row-6-column-8.png false true false true
+row-6-column-9.png true true true true
+row-6-column-10.png true true true true
+row-6-column-11.png false true true true
+row-6-column-12.png true true true true It's a Secret 10RP
+row-6-column-13.png false true true true
+row-6-column-14.png true true true true
+row-6-column-15.png false false false true Item Shop
+row-6-column-16.png true false true false
+row-7-column-1.png true true false false
+row-7-column-2.png true true true true
+row-7-column-3.png true true true true It's a Secret 100RP
+row-7-column-4.png true true true true Door Repair
+row-7-column-5.png true true false true Medicine Shop
+row-7-column-6.png true true false true
+row-7-column-7.png false true true true Item Shop
+row-7-column-8.png false true true true It's a Secret 30RP
+row-7-column-9.png true true true true Door Repair
+row-7-column-10.png true true false true
+row-7-column-11.png true true false true Door Repair
+row-7-column-12.png true true true true It's a Secret 100RP
+row-7-column-13.png true true false true
+row-7-column-14.png true true false true Dungeon 8
+row-7-column-15.png false true false true
+row-7-column-16.png true false true true Item Shop
+row-8-column-1.png false true false false Go north, west, south, west to the forest maze
+row-8-column-2.png true true false true It's a Secret 30RP
+row-8-column-3.png true true false true
+row-8-column-4.png true true false true
+row-8-column-5.png false false false true Dungeon 3
+row-8-column-6.png false true false false Meet the old man at the graveyard
+row-8-column-7.png true true false true Let's Play Money Game
+row-8-column-8.png true true false true It's dangerous to go alone! - Wood Sword
+row-8-column-9.png true true false true Take Any One - Potion/Heart
+row-8-column-10.png false true false true Teleport
+row-8-column-11.png false true false true
+row-8-column-12.png true true false true Take Any One - Potion/Heart
+row-8-column-13.png false true false true Let's Play Money Game
+row-8-column-14.png false true false true Door Repair
+row-8-column-15.png false true false true
+row-8-column-16.png true false false true
