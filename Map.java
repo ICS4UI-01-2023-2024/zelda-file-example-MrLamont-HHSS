@@ -46,7 +46,7 @@ public class Map {
 
             // get the data from the image filename
             // remove the .png from the filename
-            String dataString = filename.replace(".png","");
+            String dataString = imageFile.replace(".png","");
             // break up the data based on the dashes
             String[] data = dataString.split("-");
             // recovering the row and col
@@ -64,7 +64,6 @@ public class Map {
                 this.currentScene = this.scenes[i];
             }
         }
-
     }
 
     public Scene findScene(int row, int col){
@@ -82,26 +81,45 @@ public class Map {
         return null;
     }
 
+    private void updateScene(){
+        //update the current scene
+        this.currentScene = findScene(currentRow, currentCol);
+    }
+
     public void moveNorth(){
         // can we move north?
         if(this.currentScene.canMoveNorth()){
             // move row up
             this.currentRow--;
-            //update the current scene
-            this.currentScene = findScene(currentRow, currentCol);
+            updateScene();
         }
     }
 
     public void moveEast(){
-        
+        // can we move East?
+        if(this.currentScene.canMoveEast()){
+            // move right
+            this.currentCol++;
+            updateScene();
+        }
     }
 
     public void moveSouth(){
-       
+        // can we move north?
+        if(this.currentScene.canMoveSouth()){
+            // move row down
+            this.currentRow++;
+            updateScene();
+        }
     }
 
     public void moveWest(){
-       
+        // can we move West?
+        if(this.currentScene.canMoveWest()){
+            // move left
+            this.currentCol--;
+            updateScene();
+        }
     }
 
     public BufferedImage getImage(){

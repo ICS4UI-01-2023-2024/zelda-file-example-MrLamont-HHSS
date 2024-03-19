@@ -27,7 +27,7 @@ public class MainScreen extends JFrame implements ActionListener{
   */
   public MainScreen(){
     initializeComponents();
-
+    this.controller = new Controller(this, "pics.txt");
 
   }
   
@@ -97,6 +97,11 @@ public class MainScreen extends JFrame implements ActionListener{
   }
 
 
+  public void updateScreen(BufferedImage image, String description){
+    this.picturePanel.setImage(image);
+    this.infoText.setText(description);
+  }
+
 
   /** 
   * The method called when a button is pressed
@@ -109,13 +114,13 @@ public class MainScreen extends JFrame implements ActionListener{
 
     // doing the correct movement
     if(command.equals("moveNorth")){
-     
+      this.controller.moveNorth();
     }else if(command.equals("moveEast")){
-      
+      this.controller.moveEast();
     }else if(command.equals("moveSouth")){
-      
+      this.controller.moveSouth();
     }else if(command.equals("moveWest")){
-      
+      this.controller.moveWest();
     }
 
 
